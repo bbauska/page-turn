@@ -29,11 +29,11 @@ body {
 .book-wrapper {
   position: relative;
   margin: 2% auto;
-  width: 1440px;  /* 670px; */
+  width: 1340px;  /* 1440px; first: 670px; */
 }
 
 .book-wrapper img {
-  filter: drop-shadow(15px 5px 5px #494338);
+  filter: drop-shadow(15px 5px 5px #494338);  /* Very dark grayish orange */
 }
 .pages-container {
   position: absolute;
