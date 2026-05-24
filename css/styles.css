@@ -69,7 +69,7 @@ body {
 }
 
 .page-num-1 .pages-background {
-  background: linear-gradient( rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.1)), url("./images/Vintage_Floral_Texture_Background.png");
+  background: linear-gradient( rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.1)), url("./images/Vintage_Floral.jpg");
   background-size: cover;
   opacity: 0.2;
   width: 100%;
