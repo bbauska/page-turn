@@ -10,7 +10,7 @@ img {
 body {
   background:  linear-gradient(
   rgba(255, 255, 255, 0.9), 
-  rgba(255, 255, 255, 0.9)), url('../images/Vintage_Floral.jpg');
+  rgba(255, 255, 255, 0.9)), url(../images/Vintage_Floral.jpg);
   font-family: 'Stalemate', cursive;
 }
 
@@ -40,7 +40,7 @@ body {
 .pages {
 }
 .pages [class^="page-num-"] {
-  background-image: url("../images/Paper_Texture_v5_by_Bashcorpo.jpg");
+  background-image: url(../images/Paper_Texture_v5_by_Bashcorpo.jpg);
 
 /*  url(https://github.com/bbauska/page-turning-WIP/blob/main/images/Paper_Texture_v5_by_Bashcorpo.jpg); */
   background-size: auto 100%;
@@ -71,7 +71,7 @@ body {
 }
 
 .page-num-1 .pages-background {
-  background: linear-gradient( rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.1)), url("../images/Vintage_Floral.jpg");
+  background: linear-gradient( rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.1)), url(../images/Vintage_Floral.jpg);
   background-size: cover;
   opacity: 0.2;
   width: 100%;
